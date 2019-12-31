@@ -4,7 +4,7 @@
         "editor.tabSize": 4,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
-        "editor.wordWrapColumn": 120,
+        "editor.wordWrapColumn": 140,
         "editor.wordWrap": "wordWrapColumn",
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
